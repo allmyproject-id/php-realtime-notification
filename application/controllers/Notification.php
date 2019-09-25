@@ -3,7 +3,7 @@
 class Notification extends CI_Controller {
 	
 	public function __construct() {
-        parent::__construct();
+        parent::__construct();sadasdwsax
         $this->load->model('User_model');
         $this->load->model('Notification_model');
     }
